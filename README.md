@@ -1,5 +1,5 @@
 # MobileConfigApple
-Apple is removing the command to enable gatekeeper... use the command uuidgen for the profile 
+Apple is removing the command to enable gatekeeper... use the command uuidgen for the profile after <key>PayloadUUID</key> 
 
 
 
