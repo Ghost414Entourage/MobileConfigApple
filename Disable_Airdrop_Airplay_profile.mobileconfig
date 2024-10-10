@@ -20,7 +20,7 @@
             <false/> 
         </dict>
 
-        <!-- Disable AirPlay -->
+        <!-- Disable AirPlay Incoming Requests -->
         <dict> 
             <key>PayloadType</key> 
             <string>com.apple.applicationaccess</string> 
@@ -32,7 +32,7 @@
             <string>2E925F64-08BC-46E0-AF8C-0EA95B9D2849</string> 
             <key>PayloadDisplayName</key> 
             <string>Disable AirPlay</string> 
-            <key>allowAirPlay</key> 
+            <key>allowAirPlayIncomingRequests</key> 
             <false/> 
         </dict> 
     </array> 
@@ -48,4 +48,3 @@
     <integer>1</integer> 
 </dict> 
 </plist>
-
