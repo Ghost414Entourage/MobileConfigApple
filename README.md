@@ -1,5 +1,5 @@
 # MobileConfigApple
-AppleMovingToMobileLIfe
+Apple is removing the command to enable gatekeeper...
 
 
 
