@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+    <key>PayloadContent</key> 
+    <array> 
+        <!-- Disable AirDrop -->
+        <dict> 
+            <key>PayloadType</key> 
+            <string>com.apple.applicationaccess</string> 
+            <key>PayloadVersion</key> 
+            <integer>1</integer> 
+            <key>PayloadIdentifier</key> 
+            <string>com.apple.applicationaccess.501FDD1E-3F68-4C75-9AA4-37D7C9F51C81</string> 
+            <key>PayloadUUID</key> 
+            <string>501FDD1E-3F68-4C75-9AA4-37D7C9F51C81</string> 
+            <key>PayloadDisplayName</key> 
+            <string>Disable AirDrop</string> 
+            <key>allowAirDrop</key> 
+            <false/> 
+        </dict>
+
+        <!-- Disable AirPlay -->
+        <dict> 
+            <key>PayloadType</key> 
+            <string>com.apple.applicationaccess</string> 
+            <key>PayloadVersion</key> 
+            <integer>1</integer> 
+            <key>PayloadIdentifier</key> 
+            <string>com.apple.applicationaccess.airplay.2E925F64-08BC-46E0-AF8C-0EA95B9D2849</string> 
+            <key>PayloadUUID</key> 
+            <string>2E925F64-08BC-46E0-AF8C-0EA95B9D2849</string> 
+            <key>PayloadDisplayName</key> 
+            <string>Disable AirPlay</string> 
+            <key>allowAirPlay</key> 
+            <false/> 
+        </dict> 
+    </array> 
+    <key>PayloadDisplayName</key> 
+    <string>AirDrop and AirPlay Restriction</string> 
+    <key>PayloadIdentifier</key> 
+    <string>com.example.macos.AirDropAirPlayRestriction</string> 
+    <key>PayloadType</key> 
+    <string>Configuration</string> 
+    <key>PayloadUUID</key> 
+    <string>3F15D6C7-1EBC-4DA5-BCDE-A28594D51AC6</string> 
+    <key>PayloadVersion</key> 
+    <integer>1</integer> 
+</dict> 
+</plist>
+
