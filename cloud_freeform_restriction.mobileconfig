@@ -12,7 +12,7 @@
             <key>PayloadIdentifier</key>
             <string>com.example.cloudfreeformrestriction</string>
             <key>PayloadUUID</key>
-            <string>UUID_FOR_YOUR_PROFILE</string>
+            <string>8C76DDAE-5C41-459F-925B-CACFCBD5EBB1</string>
             <key>PayloadDisplayName</key>
             <string>Disable iCloud Freeform</string>
             <key>allowCloudFreeform</key>
@@ -24,7 +24,7 @@
     <key>PayloadIdentifier</key>
     <string>com.example.macos.cloudfreeformrestriction</string>
     <key>PayloadUUID</key>
-    <string>UUID_FOR_CONFIGURATION</string>
+    <string>3A9F0D99-739F-4B3E-95B8-5B55C3D457F3</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
