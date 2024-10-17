@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowPairedWatch</key>
+            <false/>
+            <key>PayloadDescription</key>
+            <string>Disables pairing with an Apple Watch and unpairs any existing watches</string>
+            <key>PayloadDisplayName</key>
+            <string>Apple Watch Pairing Restriction</string>
+            <key>PayloadIdentifier</key>
+            <string>com.example.allowPairedWatch</string>
+            <key>PayloadType</key>
+            <string>com.apple.configuration</string>
+            <key>PayloadUUID</key>
+            <string>01800114-B3FB-4BA8-8F95-5766CEAADA70</string> <!-- UUID for this payload -->
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Apple Watch Restriction Profile</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.myprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>12345678-1234-1234-1234-1234567890ab</string> <!-- New unique UUID -->
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
