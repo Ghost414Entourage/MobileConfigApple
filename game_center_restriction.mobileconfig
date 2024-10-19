@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.example.gamecenterrestriction</string>
+            <key>PayloadUUID</key>
+            <string>DEA45F2B-5DAB-434D-97A1-23B30F3A2A6C</string>
+            <key>PayloadDisplayName</key>
+            <string>Disable Game Center</string>
+            <key>allowGameCenter</key>
+            <false/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Game Center Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.macos.gamecenterrestriction</string>
+    <key>PayloadUUID</key>
+    <string>B83F71A7-2C7E-4C1F-B74F-ADB218C2A111</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
