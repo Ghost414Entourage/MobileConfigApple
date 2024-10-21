@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.example.allowitunesfilesharing</string>
+            <key>PayloadUUID</key>
+            <string>46BBAA1F-DF91-4A13-BEC7-67DA3176EB84</string>
+            <key>PayloadDisplayName</key>
+            <string>Disable iTunes File Sharing</string>
+            <key>allowiTunesFileSharing</key>
+            <false/>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>iTunes File Sharing Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.macos.allowitunesfilesharing</string>
+    <key>PayloadUUID</key>
+    <string>C4D0AEF4-5A34-4EBF-B90D-3E7F3F1D2AC4</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
