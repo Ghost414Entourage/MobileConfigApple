@@ -11,19 +11,25 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.example.airprint.disable</string>
+            <string>com.apple.applicationaccess</string>
             <key>PayloadUUID</key>
             <string>501FDD1E-3F68-4C75-9AA4-37D7C9F51C81</string>
             <key>PayloadDisplayName</key>
             <string>UniversalControl</string>
-            <key>AllowUniversalControl</key>
+            <key>allowUniversalControl</key>
+            <false/> <!-- Universal Control disabled -->
+            <key>allowAirPrint</key>
+            <false/>
+            <key>allowAirPrintCredentialsStorage</key>
+            <false/>
+            <key>allowAirPrintiBeaconDiscovery</key>
             <false/>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>AirPrint Restrictions</string>
+    <string>Universal Control</string>
     <key>PayloadIdentifier</key>
-    <string>com.example.macos.airprintrestrictions</string>
+    <string>com.example.myprofile</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
@@ -31,6 +37,6 @@
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadScope</key>
-    <string>System</string>
+    <string>System</string> <!-- Now set to system-wide -->
 </dict>
 </plist>
