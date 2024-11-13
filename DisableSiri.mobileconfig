@@ -12,7 +12,7 @@
                 <key>PayloadType</key>
                 <string>com.apple.applicationaccess</string>
                 <key>PayloadUUID</key>
-                <string>ACD8CBFD-575F-46A4-A813-B391FB9BE6D7</string>
+                <string>ACD8CBFD-575F-46A4-A813-B391FB9BE6D7</string> <!-- Unique UUID for Payload -->
                 <key>PayloadVersion</key>
                 <integer>1</integer>
                 <key>allowAssistant</key>
@@ -30,7 +30,7 @@
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadUUID</key>
-        <string>ACD8CBFD-575F-46A4-A813-B391FB9BE6D7</string>
+        <string>77A5D7B0-2647-4B58-8E8C-BC7089D45692</string> <!-- Unique UUID for Profile -->
         <key>PayloadVersion</key>
         <integer>1</integer>
     </dict>
