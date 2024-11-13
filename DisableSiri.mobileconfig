@@ -30,7 +30,7 @@
         <key>PayloadType</key>
         <string>Configuration</string>
         <key>PayloadUUID</key>
-        <string>77A5D7B0-2647-4B58-8E8C-BC7089D45692</string> <!-- Unique UUID for Profile -->
+        <string>F6E2E9DA-DA75-411D-94B1-124D11F7318F</string> <!-- Unique UUID for Profile -->
         <key>PayloadVersion</key>
         <integer>1</integer>
     </dict>
