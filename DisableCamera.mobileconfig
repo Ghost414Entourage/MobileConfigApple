@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <!-- Payload Content: Disabling Camera -->
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadDisplayName</key>
+                <string>Disable Camera</string>
+                <key>PayloadIdentifier</key>
+                <string>com.example.disableCamera</string>
+                <key>PayloadType</key>
+                <string>com.apple.applicationaccess</string>
+                <key>PayloadUUID</key>
+                <string>267F1CCE-C398-45C6-8030-22105767C2CE</string> <!-- Unique UUID for Payload -->
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>allowCamera</key>
+                <false/>
+            </dict>
+        </array>
+
+        <!-- General Profile Information -->
+        <key>PayloadDisplayName</key>
+        <string>Disable Camera Configuration</string>
+        <key>PayloadIdentifier</key>
+        <string>com.example.configurationprofile</string>
+        <key>PayloadOrganization</key>
+        <string>Your Organization Name</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>3CB8DBD9-60AD-4385-ACD8-14F1F603C5FF</string> <!-- Unique UUID for Profile -->
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
