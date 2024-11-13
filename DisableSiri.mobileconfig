@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+    <dict>
+        <!-- Payload Content: Disabling Siri -->
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadDisplayName</key>
+                <string>Disable Siri</string>
+                <key>PayloadIdentifier</key>
+                <string>com.example.disableSiri</string>
+                <key>PayloadType</key>
+                <string>com.apple.applicationaccess</string>
+                <key>PayloadUUID</key>
+                <string>ACD8CBFD-575F-46A4-A813-B391FB9BE6D7</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>allowAssistant</key>
+                <false/>
+            </dict>
+        </array>
+
+        <!-- General Profile Information -->
+        <key>PayloadDisplayName</key>
+        <string>Disable Siri Configuration</string>
+        <key>PayloadIdentifier</key>
+        <string>com.example.configurationprofile</string>
+        <key>PayloadOrganization</key>
+        <string>Your Organization Name</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>ACD8CBFD-575F-46A4-A813-B391FB9BE6D7</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
