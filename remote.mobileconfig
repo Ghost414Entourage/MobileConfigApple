@@ -11,6 +11,10 @@
             <false/>
             <key>allowRemoteAppPairing</key>
             <false/>
+            <key>allowScreenShot</key>
+            <false/>
+            <key>allowRemoteScreenObservation</key>
+            <false/>
             <key>PayloadIdentifier</key>
             <string>com.example.securitysettings</string>
             <key>PayloadType</key>
