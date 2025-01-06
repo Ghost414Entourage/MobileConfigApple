@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowAppClips</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.allowappclipsrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>4a4b4c4d-4e4f-4g4h-4i4j-4k4l4m4n4o4p</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Allow App Clips Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.allowappclipsprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>r4e4b4e4-4f4g-4h4i-4j4k-4l4m4n4o4p4q</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
