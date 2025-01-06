@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowAirPrint</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.airprintrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>h4f4b4f4-4f4b-4f4b-4f4b-4f4b4f4b4f4b</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+        <dict>
+            <key>allowAirPrintCredentialsStorage</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.airprintcredentialsrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>i5g5b5g5-5g5b-5g5b-5g5b-5g5b5g5b5g5b</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+        <dict>
+            <key>allowAirPrintiBeaconDiscovery</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.airprintibeaconrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>j6h6b6h6-6h6b-6h6b-6h6b-6h6b6h6b6h6b</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>AirPrint Restrictions</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.airprintrestrictionsprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>k7k7b7k7-7k7b-7k7b-7k7b-7k7b7k7b7k7b</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
