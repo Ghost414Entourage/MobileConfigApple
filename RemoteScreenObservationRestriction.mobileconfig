@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowRemoteScreenObservation</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.remotescreenobservationrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>5a5b5c5d-5e5f-5g5h-5i5j-5k5l5m5n5o5p</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Remote Screen Observation Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.remotescreenobservationprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>k5e5b5e5-5f5g-5h5i-5j5k-5l5m5n5o5p5q</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
