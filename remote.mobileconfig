@@ -21,6 +21,14 @@
             <false/>
             <key>allowUniversalControl</key>
             <false/>
+            <key>allowAirPlayIncomingRequests</key>
+            <false/>
+            <key>allowAirPrint</key>
+            <false/>
+            <key>allowAddingGameCenterFriends</key>
+            <false/>
+            <key>allowAirDrop</key>
+            <false/>
             <key>PayloadIdentifier</key>
             <string>com.example.securitysettings</string>
             <key>PayloadType</key>
