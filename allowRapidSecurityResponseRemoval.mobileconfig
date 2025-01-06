@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowRapidSecurityResponseRemoval</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.rapidsecurityrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>1a1b1c1d-1e1f-1g1h-1i1j-1k1l1m1n1o1p</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Rapid Security Response Removal Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.rapidsecurityprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>g1e1b1e1-1f1g-1h1i-1j1k-1l1m1n1o1p1q</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
