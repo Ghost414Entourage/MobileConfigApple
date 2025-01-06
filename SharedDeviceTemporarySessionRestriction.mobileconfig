@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowSharedDeviceTemporarySession</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.shareddevicetemporarysessionrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>6a6b6c6d-6e6f-6g6h-6i6j-6k6l6m6n6o6p</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Shared Device Temporary Session Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.shareddevicetemporarysessionprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>l6e6b6e6-6f6g-6h6i-6j6k-6l6m6n6o6p6q</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
