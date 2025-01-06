@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowAirDrop</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.airdroprestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>e1c1b1c1-1c1b-1c1b-1c1b-1c1b1c1b1c1b</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+        <dict>
+            <key>allowAirPlayIncomingRequests</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.airplayincomingrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>f2d2b2d2-2d2b-2d2b-2d2b-2d2b2d2b2d2b</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>AirDrop and AirPlay Restrictions</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.airplayandairdropprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>g3e3b3e3-3e3b-3e3b-3e3b-3e3b3e3b3e3b</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
