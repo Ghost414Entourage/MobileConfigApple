@@ -15,6 +15,12 @@
             <false/>
             <key>allowRemoteScreenObservation</key>
             <false/>
+            <key>allowSharedDeviceTemporarySession</key>
+            <false/>
+            <key>allowSharedStream</key>
+            <false/>
+            <key>allowUniversalControl</key>
+            <false/>
             <key>PayloadIdentifier</key>
             <string>com.example.securitysettings</string>
             <key>PayloadType</key>
