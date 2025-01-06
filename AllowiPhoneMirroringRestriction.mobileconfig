@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>allowiPhoneMirroring</key>
+            <false/>
+            <key>PayloadIdentifier</key>
+            <string>com.example.allowiphonemirroringrestriction</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>8a8b8c8d-8e8f-8g8h-8i8j-8k8l8m8n8o8p</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Allow iPhone Mirroring Restriction</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.allowiphonemirroringprofile</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>q8e8b8e8-8f8g-8h8i-8j8k-8l8m8n8o8p8q</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
